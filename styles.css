@@ -51,7 +51,7 @@ body {
   gap: 16px;
 }
 
-.text_container h2 {
+.text_container h1 {
   width: 100%;
   text-align: center;
   font-weight: 700;
@@ -60,7 +60,7 @@ body {
   font-size: 22px;
 }
 
-.text_container p {
+.text_container footer {
   width: 256px;
   text-align: center;
   height: fit-content;
