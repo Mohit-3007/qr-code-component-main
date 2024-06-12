@@ -14,12 +14,12 @@ body {
   font-size: 15px;
 }
 
-.parent_div {
+#parent_div {
   width: calc(100% - 17px);
   height: 100vh;
 }
 
-.frame {
+#frame {
   width: 320px;
   height: fit-content;
   background-color: hsl(0, 0%, 100%);
@@ -32,17 +32,17 @@ body {
   gap: 24px;
 }
 
-.qr_code {
+#qr_code {
   width: 100%;
   height: 288px;
 }
 
-.qr_code img {
+#qr_code img {
   width: 100%;
   height: 100%;
 }
 
-.text_container {
+#text_container {
   width: 100%;
   height: 129px;
   display: flex;
@@ -51,7 +51,7 @@ body {
   gap: 16px;
 }
 
-.text_container h1 {
+#text_container h1 {
   width: 100%;
   text-align: center;
   font-weight: 700;
@@ -60,7 +60,7 @@ body {
   font-size: 22px;
 }
 
-.text_container footer {
+#text_container footer {
   width: 256px;
   text-align: center;
   height: fit-content;
